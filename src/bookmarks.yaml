@@ -1,0 +1,144 @@
+- name: Monochrome Music
+  url: https://monochrome.tf/
+- name: SquidWTF
+  url: https://tidal.squid.wtf/
+- name: DevHints
+  url: https://devhints.io/
+- name: DevDocs
+  url: https://devdocs.io/
+- name: Github
+  url: https://github.com/Badjavii
+- name: LeetCode
+  url: https://leetcode.com/problemset/
+- name: W3Schools
+  url: https://www.w3schools.com/
+- name: OverAPI
+  url: https://overapi.com/
+- name: UCV Conest
+  url: https://conest.ciens.ucv.ve/webapp/
+- name: Scribbr
+  url: https://www.scribbr.es/citar/generador/apa/
+- name: NotebookLM
+  url: https://notebooklm.google.com/
+- name: UCV Mail
+  url: https://correo.ciens.ucv.ve/
+- name: UCV Portalasig2
+  url: https://portalasig2.ciens.ucv.ve/#/
+- name: Doc Downloader
+  url: https://docdownloader.com/
+- name: Redalyc
+  url: https://www.redalyc.org/
+- name: TXYZ
+  url: https://app.txyz.ai/
+- name: WeLib
+  url: https://es.welib.org/
+- name: Mathcha - Visual LaTeX Graphs
+  url: https://www.mathcha.io/editor
+- name: Simpletex - Image To LaTeX
+  url: https://simpletex.cn/ai/latex_ocr
+- name: UCV Campus Virtual
+  url: https://campusvirtualucv.org/login/index.php
+- name: FreeBSD Handbook
+  url: https://docs.freebsd.org/en/books/handbook/
+- name: Linux From Scratch
+  url: https://linuxfromscratch.org/
+- name: ArchWiki
+  url: https://wiki.archlinux.org/title/Main_page
+- name: Linux Journey
+  url: https://labex.io/linuxjourney
+- name: ExplainShell
+  url: https://explainshell.com/
+- name: Linux Foundation
+  url: https://www.linuxfoundation.org/
+- name: WallRice
+  url: https://www.wallrice.xyz/
+- name: Zalgo Text Generator
+  url: https://lingojam.com/ZalgoText
+- name: Koloicons
+  url: https://www.koloicons.com/icons
+- name: Coolors
+  url: https://coolors.co/generate
+- name: Dopely
+  url: https://colors.dopely.top/
+- name: Iconos8
+  url: https://iconos8.es/icons/
+- name: FreeConvert
+  url: https://www.freeconvert.com/png-to-ico
+- name: Adobe Color Wheel
+  url: https://color.adobe.com/es/create/color-wheel
+- name: Flaticon
+  url: https://www.flaticon.com/
+- name: GradientsApp
+  url: https://gradients.app/es/shades
+- name: The Pirate Bay
+  url: https://thepiratebay.org/index.html
+- name: Ivanime
+  url: https://www.ivanime.com/
+- name: DeepSeek
+  url: https://chat.deepseek.com/sign_in
+- name: VirusTotal
+  url: https://www.virustotal.com/gui/home/upload
+- name: Badjavii Web
+  url: https://badjavii.github.io/
+- name: Google Calendar
+  url: https://calendar.google.com/calendar/u/0/r
+- name: Daily.dev
+  url: https://app.daily.dev/onboarding
+- name: Reddit
+  url: https://www.reddit.com/
+- name: Vimms Lair
+  url: https://vimm.net/vault/DS
+- name: Notion
+  url: https://www.notion.so/
+- name: Drive
+  url: https://drive.google.com/drive/
+- name: Translate
+  url: https://translate.google.com/?sl=es&tl=en&op=translate
+- name: Remote Desktop
+  url: https://remotedesktop.google.com/access
+- name: GeoGebra
+  url: https://www.geogebra.org/calculator
+- name: Gmail
+  url: https://mail.google.com/mail/u/0/#inbox
+- name: Mercado Libre Venezuela
+  url: https://www.mercadolibre.com.ve/
+- name: Modrinth
+  url: https://modrinth.com/auth/sign-in?redirect=/dashboard
+- name: Proton Mail
+  url: https://mail.proton.me/u/0/inbox
+- name: Proton Pass
+  url: https://pass.proton.me/
+- name: Proton Drive
+  url: https://drive.proton.me/u/0/
+- name: CommandLineFu
+  url: https://www.commandlinefu.com/commands/browse
+- name: pure-sh-bible
+  url: https://github.com/dylanaraps/pure-sh-bible
+- name: Anna’s Archive
+  url: https://annas-archive.li/
+- name: MyAnimeList
+  url: https://myanimelist.net/
+- name: YouTube
+  url: https://www.youtube.com/
+- name: Photos
+  url: https://photos.google.com/
+- name: Wallhaven.cc
+  url: https://wallhaven.cc/
+- name: MatCraft
+  url: https://matcraft.app/
+- name: Claude
+  url: https://claude.ai/new
+- name: Gemini
+  url: https://gemini.google.com/app?hl=es_419
+- name: WhatsApp Web
+  url: https://web.whatsapp.com/
+- name: Telegram Web
+  url: https://web.telegram.org/a/
+- name: Odysee
+  url: https://odysee.com/
+- name: Spotify
+  url: https://open.spotify.com/
+- name: CubePath
+  url: https://my.cubepath.com/
+- name: Stack Overflow
+  url: https://stackoverflow.com/
